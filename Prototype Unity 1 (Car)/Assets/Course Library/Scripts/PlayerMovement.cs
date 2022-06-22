@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    float carSpeed = 2.5f;
+    float carSpeed = 5.5f;
 
      void Start()
     {
