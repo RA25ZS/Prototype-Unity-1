@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     float carForwardSpeed = 5.5f;
-    float carTurnSpeed = 5f;
+    float carTurnSpeed = 30f;
     float horizontalSpeed;
     float turnSpeed;
 
